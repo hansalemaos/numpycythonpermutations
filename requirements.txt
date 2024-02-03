@@ -1,0 +1,3 @@
+cycompi
+flatten_any_dict_iterable_or_whatsoever
+numpy
